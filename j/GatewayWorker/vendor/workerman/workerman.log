@@ -1,0 +1,36 @@
+2017-07-31 07:50:46 Bad request for Register service. Request info(IP:192.168.1.70, Request Buffer:GET / HTTP/1.1). See http://wiki.workerman.net/Error4 for detail
+2017-07-31 07:50:56 Register auth timeout (192.168.1.70). See http://wiki.workerman.net/Error4 for detail
+2017-08-18 09:32:30 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:31 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:32 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:33 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:34 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:35 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:36 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:37 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:38 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:39 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:40 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-18 09:32:41 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:15:50 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2017-08-21 06:15:51 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2017-08-21 06:15:51 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2017-08-21 06:15:52 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2017-08-21 06:15:52 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2017-08-21 06:22:14 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:15 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:16 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:17 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:18 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:19 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:20 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:21 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:22 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:23 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:24 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:25 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:26 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:27 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:28 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:29 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
+2017-08-21 06:22:30 Gateway: Worker->name conflict. Key:127.0.0.1:YourAppBusinessWorker:0
